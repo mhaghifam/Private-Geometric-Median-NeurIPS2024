@@ -6,7 +6,7 @@
 
 Official implementation of **"Private Geometric Median"** presented at NeurIPS 2024.
 
-**Authors:** [Mahdi Haghifam](https://mhaghifam.github.io/mahdihaghifam/), [Thomas Steinke](https://scholar.google.com/citations?user=sLW5VVIAAAAJ), [Jonathan Ullman](https://www.ccs.neu.edu/home/jullman/)
+**Authors:** Mahdi Haghifam, Thomas Steinke, Jonathan Ullman
 
 ## Abstract
 
