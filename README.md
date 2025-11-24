@@ -18,7 +18,7 @@ Unlike standard approaches like DP-GD that require strong a priori knowledge abo
 ## Contact
 
 For questions and feedback:
-- **Mahdi Haghifam** - [mhaghifam@ttic.edu](mailto:mhaghifam@ttic.edu)
+- **Mahdi Haghifam** - [haghifam.mahdi@gmail.com](mailto:haghifam.mahdi@gmail.com)
 - **GitHub Issues** - For bug reports and feature requests
 
 
