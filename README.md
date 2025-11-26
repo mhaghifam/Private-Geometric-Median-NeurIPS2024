@@ -14,6 +14,7 @@ This repository contains the implementation of differentially private (DP) algor
 
 Unlike standard approaches like DP-GD that require strong a priori knowledge about data location within a ball of radius $R$ (with excess risk depending linearly on $R$), our algorithms provide excess error guarantees that scale with the **effective diameter** of the datapoints—the unknown radius containing the majority of the data.
 
+| <img src="low-eps.pdf" width="300"> | <img src="high-eps.pdf" width="300"> |
 
 ## Contact
 
