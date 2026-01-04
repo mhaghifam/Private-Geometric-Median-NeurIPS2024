@@ -16,6 +16,19 @@ Unlike standard approaches like DP-GD that require strong a priori knowledge abo
 
 | <img src="low-eps.jpg" width="400"> | <img src="high-eps.jpg" width="400"> |
 
+
+## Installation & Running
+```bash
+# Clone the repository
+git clone https://github.com/mhaghifam/Private-Geometric-Median-NeurIPS2024.git
+cd Private-Geometric-Median-NeurIPS2024
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run experiments to reproduce figures
+python run_experiments.py
+
 ## Contact
 
 For questions and feedback:
