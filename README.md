@@ -28,6 +28,8 @@ pip install -r requirements.txt
 
 # Run experiments to reproduce figures
 python run_experiments.py
+```
+
 
 ## Contact
 
